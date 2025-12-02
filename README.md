@@ -1,16 +1,21 @@
-## Hi there 👋
+🔍 Looking for Junior Backend / Trainee Python opportunities
 
-<!--
-**semymax/semymax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Semy 👋
 
-Here are some ideas to get you started:
+Junior Backend Python Developer and Computer Science student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 🐍 Python backend scripts and automation
+- 🐧 Linux user for over 10 years
+- 💻 Bash scripting and CLI tools
+- 🗄️ Basic database knowledge (SQLite / MySQL)
+- 🔧 Git and Linux environments
+
+## Interests
+- Backend development
+- Automation
+- APIs and system tools
+
+## Technologies
+Python | Bash | Linux | Git | JSON | SQLite | MySQL | Java | JavaScript
+
